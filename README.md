@@ -22,3 +22,6 @@ This project is a Spotify Clone built using HTML, JavaScript, and CSS. It aims t
 - HTML: Structuring the web page.
 - CSS: Styling the components and layout.
 - JavaScript: Adding interactivity and functionality.
+
+## click link to look on :
+https://famous-gecko-c2212a.netlify.app
